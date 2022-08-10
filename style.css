@@ -1,0 +1,64 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap'); */
+
+
+body{
+    background-color: rgb(68, 133, 133);
+}
+.gamezone{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   width: 50vw;
+   margin: 2vw 25vw;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-right:4vw;
+    align-content: center;
+}
+.img li{
+    
+    padding-right: 2rem;
+}
+.btn li{
+    margin-left: 2rem;
+    padding-right: 7rem;
+}
+h1{
+    margin-left:30vw;
+    align-items: center;
+}
+.button{
+
+    border-radius: 0.3rem;
+    padding: .4rem;
+    margin: .4rem;
+}
+.input{
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 0;
+    width: 40vw;
+    height: 4rem;
+    margin-left: 29vw;
+    align-items: center;
+    font-size: larger;
+    font-weight: bolder;
+ 
+
+}
+.restart{
+    background-color: rgb(30, 14, 253);
+    width: 3.3rem;
+    height: 3rem;
+    border-radius: 5rem;
+}
+#x{
+    
+    border-radius: 1rem;
+    margin-top: 10rem;
+
+    margin: 0 35vw;
+}
